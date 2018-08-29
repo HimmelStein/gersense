@@ -1,0 +1,4 @@
+1. word-sense for German
+2. tree-structure of word-senses
+3. ball embedding of German word-senses
+4. word-sense disambiguation
